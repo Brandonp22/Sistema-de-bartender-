@@ -42,6 +42,8 @@ V1.0
 
 **Arquitectura de microservicios**
 
+![](https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/microservicios.png)
+
 **¿Qué es?**
 
 Es un método de desarrollo de aplicaciones software y hardware que funciona como un conjunto de pequeños servicios que se ejecutan de manera independiente y autónoma, proporcionando una funcionalidad de negocio completa. En ella, cada microservicio es un código que puede estar en un lenguaje de programación diferente, y que desempeña una función específica. Los microservicios se comunican entre sí a través de APIs, y cuentan con sistemas de almacenamiento propios, lo que evita la sobrecarga y caída de la aplicación.
