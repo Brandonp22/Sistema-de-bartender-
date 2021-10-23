@@ -64,7 +64,7 @@ Este proyecto es un proyecto donde hay funcionalidades (microservicios) que est�
 
 **Gráfica de microservicios**
 
-
+![](https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/grafica.png)
 
 Hay otra funcionalidad, que es la de mezclar bebidas, pero esto no es un microservicio ya que depende de que las otras funcionalidades estén en pleno funcionamiento.
 
