@@ -21,6 +21,15 @@ Sistema automático de mezcla de bebidas y tragos con refrigeración incluida co
 V1.0
 [Ir a la release](https://github.com/Brandonp22/Sistema-de-bartender-/releases/tag/v1.0)
 
+# Funcionalidades del sistema
+
+<p>-1. **Mezclar bebidas**</p><p>La función principal del sistema será la mezcla de cocteles tanto alcohólicos como no alcohólicos mediante la dosificación de los diferentes elementos que conforman el cóctel seleccionado. </p><p></p>
+
+<p>-2. **Menú de selección de bebidas**</p><p>El sistema contará con una pantalla y 2 botones para seleccionar la bebida que deseemos que “El canchito” prepare.</p><p></p>
+
+<p>-3. **Menú de configuración**</p><p>“El canchito” contará con un menú para configurar que tipo de bebida es la que dispensa cada bomba para así poder cambiar el tipo de cocteles que pueda preparar el sistema.</p><p></p>
+
+<p>-4. **4 bombas, 4 bebidas**</p><p>“El canchito” contará con 4 bombas para extraer 4 tipos diferentes de bebidas para hacer diferentes mezclas</p><p></p>
 #
 **Diagramas correspondientes al proyecto**
 
