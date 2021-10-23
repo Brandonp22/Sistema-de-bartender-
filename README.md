@@ -35,8 +35,9 @@ V1.0
 **-4. 4 bombas, 4 bebidas**
 <p>“El canchito” contará con 4 bombas para extraer 4 tipos diferentes de bebidas para hacer diferentes mezclas</p><p></p>
 
+#
 
-#**Arquitectura usada**
+#Arquitectura usada
 
 **Arquitectura de microservicios**
 
