@@ -34,5 +34,7 @@ V1.0
 
 **Diseño 3D del sistema**
 
-![]()
+![](https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/diagrama%203d%202.png)
+
+![](https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/diagrama%203d.png)
 
