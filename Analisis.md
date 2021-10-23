@@ -3,6 +3,7 @@
 **1. Metodología seleccionada**
 
 Para cumplir con los requerimientos del proyecto, se seleccionará el modelo incremental.
+
 ![](https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/modelo%20incremental.jpg)
 
 
