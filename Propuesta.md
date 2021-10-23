@@ -63,6 +63,7 @@
 
 1. **ESQUEMA ELECTRICO**
 
+![](https://github.com/Brandonp22/Sistema-de-bartender-/releases/download/v1.0/diagrama.del.circuito.png)
 
 
 
