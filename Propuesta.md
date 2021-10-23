@@ -60,6 +60,7 @@
 |<p>Funcionalidad 2</p><p></p>|<p>- **Menú de selección de bebidas**</p><p>El sistema contará con una pantalla y 2 botones para seleccionar la bebida que deseemos que “El canchito” prepare.</p><p></p>|
 |<p>Funcionalidad 3</p><p></p>|<p>- **Menú de configuración**</p><p>“El canchito” contará con un menú para configurar que tipo de bebida es la que dispensa cada bomba para así poder cambiar el tipo de cocteles que pueda preparar el sistema.</p><p></p>|
 |<p>Funcionalidad 4</p><p></p>|<p>- **4 bombas, 4 bebidas**</p><p>“El canchito” contará con 4 bombas para extraer 4 tipos diferentes de bebidas para hacer diferentes mezclas</p><p></p>|
+|<p>Funcionalidad 5</p><p></p>|<p>- **Sistema de refrigeración**</p><p>“El canchito” contará con un sistema de refrigeración en la parte del almacenamiento de los líquidos para que cada coctel que se prepare siempre esté frío.</p><p></p>|
 
 1. **ESQUEMA ELECTRICO**
 
