@@ -80,6 +80,8 @@ Hay otra funcionalidad, que es la de mezclar bebidas, pero esto no es un microse
 
 **-Usabilidad:** Este tipo de prueba se refiere a asegurar de que la interfaz de usuario (o GUI) sea intuitiva, amigable y funcione correctamente.
 
+**-Prueba alfa:** La prueba alfa es conducida por un cliente en el lugar de desarrollo. Se usa el software de manera natural, con el encargado de desarrollo "mirando por encima del hombro" del usuario" y registrando errores y problemas de uso. En nuestro caso será con el ingeniero Estuardo Villatoro verificando que todas las funciones sirvan de la manera que se propuso.
+
 # Diagramas correspondientes al proyecto
 
 **Diagrama del circuito**
