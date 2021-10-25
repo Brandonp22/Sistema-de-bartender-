@@ -4,8 +4,8 @@ Sistema automático de mezcla de bebidas y tragos con refrigeración incluida co
 
 |Integrante  |Rol|
 | :- | :- |
-|Jonathan René Cameros Vargas|Analista y desarrollador|
-|José Carlos Díaz López|Analista y desarrollador|
+|Jonathan René Cameros Vargas|Analista|
+|José Carlos Díaz López|Analista|
 |Brandon Josué Pineda Chacón|Desarrollador|
 |Jose Mario Ayala Resuleu|Desarrollador|
 
