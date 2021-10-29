@@ -121,7 +121,7 @@ La selección fácil de las bebidas lo hace un sistema fácil de utilizar, solo 
 # Diagramas correspondientes al proyecto
 
 **Diagrama del circuito**
-<img src="https://github.com/Brandonp22/Sistema-de-bartender-/releases/download/v1.0/diagrama.del.circuito.png" alt="drawing" width="200"/>
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/releases/download/v1.0/diagrama.del.circuito.png" alt="drawing" width="800"/>
 ![]()
 
 **Diagrama de casos de uso del usuario**
@@ -130,9 +130,10 @@ La selección fácil de las bebidas lo hace un sistema fácil de utilizar, solo 
 
 **Diseño 3D del sistema**
 
-<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/diagrama%203d%202.png" alt="drawing" width="200"/>
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/diagrama%203d%202.png" alt="drawing" width="800"/>
 ![]()
 
-<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/diagrama%203d.png" alt="drawing" width="200"/>
-![](https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/diagrama%203d.png)
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/diagrama%203d.png" alt="drawing" width="800"/>
+
+![]()
 
