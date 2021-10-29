@@ -44,7 +44,7 @@ V1.0
 
 **Arquitectura de microservicios**
 
-![](https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/microservicios.png)
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/microservicios.png" alt="drawing" width="700"/>
 
 **¿Qué es?**
 
@@ -70,8 +70,7 @@ Este proyecto es un proyecto donde hay funcionalidades (microservicios) que est�
 
 **Gráfica de microservicios**
 
-![](https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/grafica.png)
-
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/grafica.png" alt="drawing" width="700"/>
 
 
 Hay otra funcionalidad, que es la de mezclar bebidas, pero esto no es un microservicio ya que depende de que las otras funcionalidades estén en pleno funcionamiento.
@@ -124,18 +123,14 @@ La selección fácil de las bebidas lo hace un sistema fácil de utilizar, solo 
 
 
 <img src="https://github.com/Brandonp22/Sistema-de-bartender-/releases/download/v1.0/diagrama.del.circuito.png" alt="drawing" width="700"/>
-![]()
 
 **Diagrama de casos de uso del usuario**
 
-![]()
 
 **Diseño 3D del sistema**
 
 <img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/diagrama%203d%202.png" alt="drawing" width="700"/>
-![]()
 
 <img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/diagrama%203d.png" alt="drawing" width="700"/>
 
-![]()
 
