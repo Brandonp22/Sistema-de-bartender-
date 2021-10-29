@@ -7,7 +7,7 @@ Sistema automático de mezcla de bebidas y tragos con refrigeración incluida co
 |Jonathan René Cameros Vargas|Analista|
 |José Carlos Díaz López|Analista|
 |Brandon Josué Pineda Chacón|Desarrollador|
-|Jose Mario Ayala Resuleu|---|
+|Jose Mario Ayala Resuleu|Desarrollador|
 
 #
 [Analisis del proyecto](https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Analisis.md)
