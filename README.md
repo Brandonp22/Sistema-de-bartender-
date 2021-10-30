@@ -235,4 +235,8 @@ Al inicio del proyecto se consideraron 2 bosquejos anteriores a la versión fina
 
 <img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo4.jfif" alt="drawing" width="700"/>
 
+5.) Diseño realizado del bartender automático
+
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo3.jfif" alt="drawing" width="700"/>
+
 
