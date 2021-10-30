@@ -223,4 +223,8 @@ Al inicio del proyecto se consideraron 2 bosquejos anteriores a la versión fina
 
 <img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo1.jfif" alt="drawing" width="700"/>
 
+2.) Beto del menú que tuvo que ser cambiado por el controlador de la pantalla.
+
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo2.jfif" alt="drawing" width="700"/>
+
 
