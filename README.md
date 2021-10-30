@@ -29,6 +29,9 @@ Sistema automático de mezcla de bebidas y tragos con refrigeración incluida co
 V1.0
 [Ir a la release](https://github.com/Brandonp22/Sistema-de-bartender-/releases/tag/v1.0)
 
+V2.0
+[Ir a la release](https://github.com/Brandonp22/Sistema-de-bartender-/releases/tag/v2.0)
+
 # Funcionalidades del sistema
 
 **-1. Mezclar bebidas**
