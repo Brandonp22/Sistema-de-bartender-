@@ -74,6 +74,26 @@ Este proyecto es un proyecto donde hay funcionalidades (microservicios) que est�
 
 
 Hay otra funcionalidad, que es la de mezclar bebidas, pero esto no es un microservicio ya que depende de que las otras funcionalidades estén en pleno funcionamiento.
+
+# Enfoque estratégico 
+
+El bartender “El Canchito” consta de una variedad de contenidos que un análisis de software (aplicado a hardware) podría contar, a continuación, mostramos los contenidos más sobresalientes aplicados a este proyecto.
+
+El proyecto final del curso de análisis de sistemas II cuenta con un enfoque estratégico básico, se utilizó el medio de la verificación y se desarrollaron un conjunto de tareas que garantizan que el software implementa correctamente cada función específica, asimismo, de la mano con la verificación se trabajó la validación, y esta consto de diferentes tareas, valga la redundancia, que aseguran que el software que se construye siga los requerimientos del cliente.
+
+Para las pruebas de software y conllevar de la mano la V&V, (Verificación y Validación) se llevaron a cabo pruebas fundamentales aprendidas en el curso y puestas en práctica. He aquí una corta lista.
+
+- Revisiones técnicas
+- Monitoreo de rendimiento
+- Simulación
+- Estudio de factibilidad
+- Revisión de documentación
+- Análisis de algoritmos
+- Pruebas de desarrollo
+- Pruebas de usabilidad
+- Pruebas de instalación
+- Entre otras.
+
 # Análisis UI/UX
 
 **UI (User interface):**
