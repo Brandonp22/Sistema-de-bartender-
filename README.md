@@ -239,4 +239,8 @@ Al inicio del proyecto se consideraron 2 bosquejos anteriores a la versión fina
 
 <img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo3.jfif" alt="drawing" width="700"/>
 
+6.) Prueba de llenado
+
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo6.jfif" alt="drawing" width="700"/>
+
 
