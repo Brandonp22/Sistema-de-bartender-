@@ -223,8 +223,12 @@ Al inicio del proyecto se consideraron 2 bosquejos anteriores a la versión fina
 
 <img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo1.jfif" alt="drawing" width="700"/>
 
-2.) Beto del menú que tuvo que ser cambiado por el controlador de la pantalla.
+2.) Beta del menú que tuvo que ser cambiado por el controlador de la pantalla.
 
 <img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo2.jfif" alt="drawing" width="700"/>
+
+3.) Pantalla con menú final que es implementado en el proyecto.
+
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo5.jfif" alt="drawing" width="700"/>
 
 
