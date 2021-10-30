@@ -141,6 +141,79 @@ La selección fácil de las bebidas lo hace un sistema fácil de utilizar, solo 
 
 **-Prueba alfa:** La prueba alfa es conducida por un cliente en el lugar de desarrollo. Se usa el software de manera natural, con el encargado de desarrollo "mirando por encima del hombro" del usuario" y registrando errores y problemas de uso. En nuestro caso será con el ingeniero Estuardo Villatoro verificando que todas las funciones sirvan de la manera que se propuso.
 
+#Diseño basado en el usuario
+
+El diseño centrado en el usuario de este sistema de bartender automático, toma en cuenta 4 aspectos de los temas centrales en el diseño centrado en el usuario:
+
+- Facilidad de uso
+- Contenido
+- Satisfacción
+- Rendimiento
+
+Esto es de vital importancia a la hora de seducir al usuario final, ya que un buen diseño centrado en su experiencia utilizando la máquina, hará que quiera utilizar muchas veces más.
+
+**Facilidad de uso:** El diseño básicamente se basó en esto, darle un diseño con muy fácil usabilidad, es por ello que solamente se escogieron 2 botones y una pantalla como parte interactiva de la máquina, para que el usuario no encontrara muy complejo las acciones que tiene que llevar a cabo para llenar su vaso.
+
+**Contenido:** El menú con el que interactúa el usuario es demasiado simple, su contenido se basa concretamente en las bebidas que podemos seleccionar, sin desviarse de la esencia principal del proyecto, sin distracciones que puedan hacer complejo el manejo de la máquina.
+
+**Satisfacción:** El proceso de llenado del vaso es un proceso satisfactorio debido al diseño que le dimos a la máquina, porque luego de elegir la bebida correspondiente, inicia a dispensarla por medio del método para ello, y, además, se logra una satisfacción para el usuario a través del sistema de refrigeración integrado, lo que hace que los tragos salgan fríos.
+
+**Rendimiento:** El rendimiento es una característica muy bien pensada y muy bien ejecutada. La máquina puede rendir cuantas veces quiera, y, si se terminan las bebidas para mezclar, el diseño está hecho para que volver a poner las bebidas sea muy sencillo, solo abriendo la compuerta del refrigerador y sustituyendo a las existentes.
+
+**Proyección de marketing con usabilidad**
+
+La naturaleza del proyecto lo hace un proyecto con altas oportunidades de explotar su marketing ya que tiene un diseño llamativo, en el cual resaltan los siguientes aspectos:
+
+- **Color negro:** Este color fue elegido por su elegancia, seriedad y buena aceptación por el público en general, partiendo desde el pensamiento que un color más llamativo podría no ser del agrado de todas las personas, por ende, siendo color negro se llegaría a un porcentaje más alto de personas.
+- **Botones de color rojo:** El color de los botones fue pensado previamente, buscando un color que sea vivo, porque detalles así hacen atractivo a un proyecto, y ya sabemos que verse y ser innovadores hace que mucha más gente utilice los productos, los botones están posicionados estratégicamente con el fin del fácil aprendizaje de uso de los mismos.
+- **Visibilidad en la producción:** Cuando el trago se está haciendo, el objetivo primordial es que el usuario pueda observar el proceso de llenado de su vaso. Esto hace a la máquina en cierto grado “interactiva” con el usuario, en la que el usuario siente cierto poder, porque está viendo como el sistema sigue la orden que le dio previamente, lo cual siempre atrae a los usuarios de un sistema.
+
+Viendo todos los aspectos que están relacionados con el diseño centrado en el usuario, se puede decir que se obtiene como resultado el **“Good customer experience”** esperado, porque se combinan objetivos diversos tales como negocios, marketing, usabilidad y experiencia de usuarios en un mismo sistema.
+
+**Bosquejos**
+
+Al inicio del proyecto se consideraron 2 bosquejos anteriores a la versión final que está en el diseño 3D de “El canchito”, los cuales son los siguientes:
+
+**1er bosquejo**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Desventajas:** 
+
+- Demasiado grande.
+- Posibilidad de problemas por la distinta longitud de las mangueras que llegan al destino.
+- No es agradable a la vista el que el menú y la sección de servir estén tan separadas y no integradas como un solo conjunto.
+- El sistema de refrigeración debe ser más grande por lo que se gastan más recursos económicos.
+- Mayor gasto en general.
+
+**2do bosquejo**
+
+
+
+
+
+
+
+
+
+
+**Desventajas:**
+
+- No integración del menú y el servido en un solo conjunto.
+- Diseño que no es tan llamativo ya que el menú se ve muy separado de la otra función.
+- Las mangueras que sirven bebidas tendrían que estar muy unidas lo cual puede causar problema.
+
 # Diagramas correspondientes al proyecto
 
 **Diagrama del circuito**
