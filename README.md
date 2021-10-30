@@ -217,4 +217,10 @@ Al inicio del proyecto se consideraron 2 bosquejos anteriores a la versión fina
 
 <img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/diagrama%203d.png" alt="drawing" width="700"/>
 
+# Anexos
+
+1.) El primer anexo muestra el circuito realizado con la imagen del rapberry donde en principio fue pensado realizar el proyecto.
+
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo1.jfif" alt="drawing" width="700"/>
+
 
