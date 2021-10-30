@@ -188,14 +188,7 @@ Al inicio del proyecto se consideraron 2 bosquejos anteriores a la versión fina
 
 **2do bosquejo**
 
-
-
-
-
-
-
-
-
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/2do%20bosquejo.jfif" alt="drawing"  width="700"/>
 
 **Desventajas:**
 
