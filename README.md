@@ -141,7 +141,7 @@ La selección fácil de las bebidas lo hace un sistema fácil de utilizar, solo 
 
 **-Prueba alfa:** La prueba alfa es conducida por un cliente en el lugar de desarrollo. Se usa el software de manera natural, con el encargado de desarrollo "mirando por encima del hombro" del usuario" y registrando errores y problemas de uso. En nuestro caso será con el ingeniero Estuardo Villatoro verificando que todas las funciones sirvan de la manera que se propuso.
 
-#Diseño basado en el usuario
+# Diseño basado en el usuario
 
 El diseño centrado en el usuario de este sistema de bartender automático, toma en cuenta 4 aspectos de los temas centrales en el diseño centrado en el usuario:
 
