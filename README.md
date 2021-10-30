@@ -20,7 +20,7 @@ Sistema automático de mezcla de bebidas y tragos con refrigeración incluida co
 
 [Propuesta UI/UX](https://github.com/Brandonp22/Sistema-de-bartender-/wiki/Propuesta-UI-UX)
 
-[Diseño basado en el usario](https://github.com/Brandonp22/Sistema-de-bartender-/wiki/Diseño-basado-en-el-usuario)
+[Diseño basado en el usuario](https://github.com/Brandonp22/Sistema-de-bartender-/wiki/Diseño-basado-en-el-usuario)
 
 
 # Releases
