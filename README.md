@@ -16,6 +16,8 @@ Sistema automático de mezcla de bebidas y tragos con refrigeración incluida co
 
 [Arquitectura del proyecto](https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Arquitectura.md)
 
+[Enfoque estratégico](https://github.com/Brandonp22/Sistema-de-bartender-/wiki/Enfoque-estratégico)
+
 
 # Releases
 [Todas las releases](https://github.com/Brandonp22/Sistema-de-bartender-/releases)
