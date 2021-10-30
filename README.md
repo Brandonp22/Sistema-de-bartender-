@@ -231,4 +231,8 @@ Al inicio del proyecto se consideraron 2 bosquejos anteriores a la versión fina
 
 <img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo5.jfif" alt="drawing" width="700"/>
 
+4.) Pasos finales en la configuración.
+
+<img src="https://github.com/Brandonp22/Sistema-de-bartender-/blob/main/Anexos/anexo4.jfif" alt="drawing" width="700"/>
+
 
