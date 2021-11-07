@@ -161,6 +161,5 @@ Un integrante del grupo se encargará de la documentación respectiva a presenta
 
 **30 de octubre**
 
-Entrega final al ingeniero Estuardo Villatoro del proyecto sistema de riego por goteo, con la documentación y archivos respectivos.
+Entrega final al ingeniero Estuardo Villatoro del proyecto sistema de bartender automático "El canchito" con la documentación y archivos respectivos.
 
-Entrega de manual de usuario, para poder mantener el funcionamiento correcto del sistema.
